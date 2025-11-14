@@ -1,5 +1,5 @@
 
-# Deep Learning Lab Experiments
+# Deep Learning Experiments
 
 This repository contains implementations of various deep learning architectures using TensorFlow/Keras for different tasks including text classification, image classification, regression, and time series prediction.
 
